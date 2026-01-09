@@ -1,0 +1,5 @@
+name: ORGS
+source: snowflake
+type: table
+tableName: A_JAMES_TEST.B2B_ORG_USERS
+primaryKey: USER_ID
